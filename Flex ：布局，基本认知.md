@@ -12,6 +12,6 @@ Flex ：布局，基本认知
 
 - 一旦激活 flex 机制，则子项的 float、clear和vertical-align属性将失效。
 
-![image](./3.webp)
+![image](./3.png)
 
-![image](./4.webp)
+![image](./4.png)
