@@ -1,6 +1,7 @@
 # css-document
 css 中一些知识点的记录（css2.0+、css3.0+）
 
+<<<<<<< HEAD
 
 ## background 背景属性综述
 
@@ -17,3 +18,12 @@ background-position | CSS1/3 | 无 | 设置或检索对象的背景图像位置
 background-origin | CSS3 | 无 | 设置或检索对象的背景图像显示的原点
 background-clip | CSS3 | 无 | 设置或检索对象的背景向外裁剪的区域
 background-size | CSS3 | 无 | 设置或检索对象的背景图像的尺寸大小
+=======
+- background-clip
+
+规定背景的绘制区域：
+
+![image](./5.jpg)
+
+![image](./6.jpg)
+>>>>>>> f97a1306a87406256224baa08a8cda633403f322
