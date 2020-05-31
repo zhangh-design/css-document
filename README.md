@@ -27,3 +27,7 @@ background-size | CSS3 | 无 | 设置或检索对象的背景图像的尺寸大�
 ![image](./5.jpg)
 
 ![image](./6.jpg)
+
+![image](./7.jpg)
+
+![image](./8.jpg)
