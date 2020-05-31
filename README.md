@@ -17,6 +17,7 @@ background-position | CSS1/3 | 无 | 设置或检索对象的背景图像位置
 background-origin | CSS3 | 无 | 设置或检索对象的背景图像显示的原点
 background-clip | CSS3 | 无 | 设置或检索对象的背景向外裁剪的区域
 background-size | CSS3 | 无 | 设置或检索对象的背景图像的尺寸大小
+
 =======
 
 
